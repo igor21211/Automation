@@ -14,8 +14,7 @@
 # y = bool(y)
 # print(type(y))
 # print(y)
-
-# # word = ''' \
+# s = ''' \
 # I wanna be your slave
 # i wanna be your killer
 # Just give me your hand
@@ -41,3 +40,4 @@
 # print(word.isdigit())
 # print(word.isalpha())
 # print(s.isalnum())
+s = 'I wanna be your slave         just do this together'
