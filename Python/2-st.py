@@ -1,43 +1,38 @@
-# x = 15
-# y = 54
+names = ['Mark', 'Ryan', 'Kieran', 'John', 'David', 'Paul']
+name1 = []
+s = 'even', 7, 'even', 2, 'even', 55, 'even', 6, 'even', 10, 'odd', 3, 'even'
+t = 'even', 7, 'even', 2, 'even', 55, 'even', 6, 'even', 9, 'odd', 3, 'even'
+c = 'even', 7, 'odd', 2, 'even', 55
 
 
+def user_names(names):
+    return [i for i in names if 4 == len(i)]
 
-# print(type(y))
-#
-# #Bool
-# My_true = True
-# my_false = False
-# y = int(y)
-# print(y)
-# print(type(y))
-# y = bool(y)
-# print(type(y))
-# print(y)
-# s = ''' \
-# I wanna be your slave
-# i wanna be your killer
-# Just give me your hand
-# just do this together
-# '''
-# print(word)
-#
-# verse = 'its rain like\n' \
-#         'Cat and dog'
-# print(verse)
-# s2 = len(word)
-# s = 'babybe'
-# print(s.capitalize())
-# print(len(word))
-# print(s.center(25,'$'))
-# print(word.count('i'))
-# print(word.count('i'))
-# print(word.find('u'))
-# print(word.index('m'))
-# print(s.index('g'))
-# print(s.replace('e','a'))
-# print(word.split())
-# print(word.isdigit())
-# print(word.isalpha())
-# print(s.isalnum())
-s = 'I wanna be your slave         just do this together'
+
+def odd_ball(arr):
+    return arr.index('odd') in arr
+
+
+print(odd_ball(['even', 7, 'even', 2, 'even', 55, 'even', 6, 'even', 10, 'odd', 3, 'even']))
+print(odd_ball(['even', 7, 'even', 2, 'even', 55, 'even', 6, 'even', 9, 'odd', 3, 'even']))
+print(odd_ball(['even', 7, 'odd', 2, 'even', 55]))
+
+
+def find_sum(n):
+    s = [i for i in range(n+1) if i % 3 == 0 or i % 5 == 0]
+    return sum(s)
+
+
+def find_sum1(n):
+    s = 0
+    for i in range(n+1):
+        if i % 3 ==0 or i % 5 ==0:
+            s += i
+    return s
+s = 'madam'
+
+
+def palindrom(s):
+    return s in s[::-1]
+
+print(palindrom(s))
