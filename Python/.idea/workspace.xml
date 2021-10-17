@@ -2,11 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be5ca76b-a957-4874-aaa0-9cfa9c3a85a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/i'm Trying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/First_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Howework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/0_pytest_intro/test_pytest_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/1_fixtures_start/test_fixtures_example_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/2_fixtures_conftest/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/2_fixtures_conftest/test_fixtures_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/3_fixtures_scope_and_autouse/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/3_fixtures_scope_and_autouse/test_1_fixtures_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/3_fixtures_scope_and_autouse/test_2_fixtures_autouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/4_fixtures_request_object_finalizer/test_1_fixtures_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/4_fixtures_request_object_finalizer/test_2_fixtures_request_finalizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/4_fixtures_request_object_finalizer/test_3_fixtures_finalizer_with_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/4_fixtures_request_object_finalizer/test_4_pass_fixture_to_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/5_fixtures_return_values/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/5_fixtures_return_values/test_fixtures_return_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/6_fixtures_parametrization/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/6_fixtures_parametrization/test_fixtures_parametrization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/7_bonus_data_structures/1_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/7_bonus_data_structures/2_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/7_bonus_data_structures/3_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/7_bonus_data_structures/4_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/7_bonus_data_structures/5_container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_qa_pytest-master/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-st.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-st.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-st.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-st.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firstcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Firstcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i'm Trying.py" beforeDir="false" afterPath="$PROJECT_DIR$/i'm Trying.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +58,25 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1yobQc1xfMWs12AI4yV4QUXM57u" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.1-st">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\Automation\Python\python_qa_pytest-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Parsing">
     <configuration name="1-st" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +140,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Parsing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing/Parsing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="i'm Trying" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +203,71 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Howework.test_01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Howework.test_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Howework.test_02" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Howework.test_02&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_fixtures_example_start.test_one" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_qa_pytest-master/1_fixtures_start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fixtures_example_start.test_one&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in python_qa_pytest-master" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_qa_pytest-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python_qa_pytest-master&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Parsing" />
+        <item itemvalue="Python tests.Python tests for Howework.test_02" />
+        <item itemvalue="Python tests.Python tests for test_fixtures_example_start.test_one" />
+        <item itemvalue="Python tests.Python tests for Howework.test_01" />
+        <item itemvalue="Python tests.Python tests in python_qa_pytest-master" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -170,5 +291,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

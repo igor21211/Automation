@@ -47,15 +47,13 @@ import random
 # def get_sum(x , y):
 #     print(x + y)
 #
+# #
+# a = {1, 1, 2, 3, 5, 8, 13, 23, 34, 55, 89}
+# b = {2, 1, 5, 8, 23, 12, 54, 98, 3, 6, 7, 1}
 #
-# a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-# b = [2, 1, 5, 8, 23, 12, 54, 98, 3, 6, 7, 1]
-# q = []
-# for c in b:
-#     for s in a:
-#         if c == s:
-#             q.append(c)
-# # print(q)
+#
+# print(a.intersection(b))
+
 #
 #
 #
